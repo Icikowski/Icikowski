@@ -20,34 +20,11 @@ spec:
         company: Nokia Solutions and Networks
         position: Working Student
     technologies:
-        programmingLanguages:
-            - Java
-            - Go
-            - Python
-            - Csharp
-            - Cplusplus
-        frameworks:
-            - Spring Boot
-            - Spring Security
-        frontend:
-            - HTML5
-            - CSS3
-            - JavaScript
-            - jQuery
-            - Bootstrap
-        mobileDevelopment:
-            - Android
-        databases:
-            - MySQL
-            - MariaDB
-            - H2
-            - sqlite3
-            - PostrgreSQL
-        devOps:
-            - Docker
-            - Kubernetes
-            - Jenkins
-            - Bash
-        testing:
-            - Radish BDD
+        programmingLanguages: ['Java', 'Go', 'Python', 'C#', 'C++']
+        frameworks: ['Spring Boot', 'Spring Security']
+        frontend: ['HTML5', 'CSS3', 'JavaScript', 'jQuery', 'Bootstrap']
+        mobileDevelopment: ['Android']
+        databases: ['MySQL', 'MariaDB', 'H2', 'sqlite3', 'PostrgreSQL']
+        devOps: ['Docker', 'Kubernetes', 'Jenkins', 'Bash']
+        testing: ['Radish BDD']
 ```
