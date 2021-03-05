@@ -1,16 +1,53 @@
-### Hi there 👋
-
-<!--
-**Icikowski/Icikowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+apiVersion: github.com/v1
+kind: UserDetails
+metadata:
+    name: Icikowski
+spec:
+    personal:
+        fullName: Piotr Icikowski
+        location: Bydgoszcz, Poland
+        www: http://icikowski.pl
+        supportedLanguages:
+            - code: PL
+              level: native
+            - code: EN
+              level: advanced
+        hobbys:
+            - coding
+            - music
+    workplace:
+        company: Nokia Solutions and Networks
+        position: Working Student
+    technologies:
+        programmingLanguages:
+            - Java
+            - Go
+            - Python
+            - Csharp
+            - Cplusplus
+        frameworks:
+            - Spring Boot
+            - Spring Security
+        frontend:
+            - HTML5
+            - CSS3
+            - JavaScript
+            - jQuery
+            - Bootstrap
+        mobileDevelopment:
+            - Android
+        databases:
+            - MySQL
+            - MariaDB
+            - H2
+            - sqlite3
+            - PostrgreSQL
+        devOps:
+            - Docker
+            - Kubernetes
+            - Jenkins
+            - Bash
+        testing:
+            - Radish BDD
+```
