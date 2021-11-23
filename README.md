@@ -7,7 +7,9 @@ spec:
     personal:
         full_name: Piotr Icikowski
         location: Bydgoszcz, Poland
-        www: https://icikowski.pl
+        links:
+            www: https://icikowski.pl
+            linkedin: https://linkedin.com/in/piotr-icikowski
         supported_languages: ["pl", "en"]
         hobbies: ["programming", "playing guitar"]
     workplace:
