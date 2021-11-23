@@ -5,25 +5,18 @@ metadata:
     name: Icikowski
 spec:
     personal:
-        fullName: Piotr Icikowski
+        full_name: Piotr Icikowski
         location: Bydgoszcz, Poland
-        www: http://icikowski.pl
-        supportedLanguages:
-            - code: PL
-              level: native
-            - code: EN
-              level: advanced
-        hobbys:
-            - coding
-            - music
+        www: https://icikowski.pl
+        supported_languages: ["pl", "en"]
+        hobbies: ["programming", "playing guitar"]
     workplace:
         company: Nokia Solutions and Networks
-        position: Working Student
+        position: Working Student / Software Developer
     technologies:
-        programmingLanguages: ['Java', 'Go', 'Python', 'C#', 'C++']
+        programming_languages: ['Go', 'Java', 'Python']
         frameworks: ['Spring Boot', 'Spring Security']
         frontend: ['HTML5', 'CSS3', 'JavaScript', 'jQuery', 'Bootstrap']
-        mobileDevelopment: ['Android']
         databases: ['MySQL', 'MariaDB', 'H2', 'sqlite3', 'PostrgreSQL']
         devOps: ['Docker', 'Kubernetes', 'Jenkins', 'Bash']
         testing: ['Radish BDD']
