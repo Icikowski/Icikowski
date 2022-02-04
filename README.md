@@ -5,16 +5,16 @@ metadata:
     name: Icikowski
 spec:
     personal:
-        full_name: Piotr Icikowski
+        fullName: Piotr Icikowski
         location: Bydgoszcz, Poland
         links:
             www: https://icikowski.pl
-            linkedin: https://linkedin.com/in/piotr-icikowski
-        supported_languages: ["pl", "en"]
+            linkedIn: https://linkedin.com/in/piotr-icikowski
+        supportedLanguages: ["pl", "en"]
         hobbies: ["programming", "playing guitar"]
     workplace:
         company: Nokia Solutions and Networks
-        position: Working Student / Software Developer
+        position: Software Engineer
     technologies:
         programming_languages: ['Go', 'Java', 'Python']
         frameworks: ['Spring Boot', 'Spring Security']
