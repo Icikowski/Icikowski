@@ -16,7 +16,7 @@ spec:
         company: Nokia Solutions and Networks
         position: Software Engineer
     technologies:
-        programming_languages: ['Go', 'Java', 'Python']
+        programmingLanguages: ['Go', 'Java', 'Python']
         frameworks: ['Spring Boot', 'Spring Security']
         frontend: ['HTML5', 'CSS3', 'JavaScript', 'jQuery', 'Bootstrap']
         databases: ['MySQL', 'MariaDB', 'H2', 'sqlite3', 'PostrgreSQL']
